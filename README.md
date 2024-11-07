@@ -9,7 +9,7 @@
 
 <br>
 
-### Prara saber mais sobre mim, segue nas redes abaixo! ###
+### Para saber mais sobre mim, segue nas redes abaixo! ###
 
 <div>
   <img style="width: 40px; height: 30px;" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
